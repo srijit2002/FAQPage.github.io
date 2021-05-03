@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/srijit2002.github.io/FAQPage.github.io/static/css/main.bdf78f55.chunk.css",
-    "main.js": "/srijit2002.github.io/FAQPage.github.io/static/js/main.642ddbef.chunk.js",
-    "main.js.map": "/srijit2002.github.io/FAQPage.github.io/static/js/main.642ddbef.chunk.js.map",
-    "runtime-main.js": "/srijit2002.github.io/FAQPage.github.io/static/js/runtime-main.ef87def1.js",
-    "runtime-main.js.map": "/srijit2002.github.io/FAQPage.github.io/static/js/runtime-main.ef87def1.js.map",
-    "static/js/2.5d6ce73b.chunk.js": "/srijit2002.github.io/FAQPage.github.io/static/js/2.5d6ce73b.chunk.js",
-    "static/js/2.5d6ce73b.chunk.js.map": "/srijit2002.github.io/FAQPage.github.io/static/js/2.5d6ce73b.chunk.js.map",
-    "index.html": "/srijit2002.github.io/FAQPage.github.io/index.html",
-    "static/css/main.bdf78f55.chunk.css.map": "/srijit2002.github.io/FAQPage.github.io/static/css/main.bdf78f55.chunk.css.map",
-    "static/js/2.5d6ce73b.chunk.js.LICENSE.txt": "/srijit2002.github.io/FAQPage.github.io/static/js/2.5d6ce73b.chunk.js.LICENSE.txt"
+    "main.css": "/FAQPage.github.io/static/css/main.bdf78f55.chunk.css",
+    "main.js": "/FAQPage.github.io/static/js/main.642ddbef.chunk.js",
+    "main.js.map": "/FAQPage.github.io/static/js/main.642ddbef.chunk.js.map",
+    "runtime-main.js": "/FAQPage.github.io/static/js/runtime-main.6c4ef7b9.js",
+    "runtime-main.js.map": "/FAQPage.github.io/static/js/runtime-main.6c4ef7b9.js.map",
+    "static/js/2.5d6ce73b.chunk.js": "/FAQPage.github.io/static/js/2.5d6ce73b.chunk.js",
+    "static/js/2.5d6ce73b.chunk.js.map": "/FAQPage.github.io/static/js/2.5d6ce73b.chunk.js.map",
+    "index.html": "/FAQPage.github.io/index.html",
+    "static/css/main.bdf78f55.chunk.css.map": "/FAQPage.github.io/static/css/main.bdf78f55.chunk.css.map",
+    "static/js/2.5d6ce73b.chunk.js.LICENSE.txt": "/FAQPage.github.io/static/js/2.5d6ce73b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ef87def1.js",
+    "static/js/runtime-main.6c4ef7b9.js",
     "static/js/2.5d6ce73b.chunk.js",
     "static/css/main.bdf78f55.chunk.css",
     "static/js/main.642ddbef.chunk.js"
