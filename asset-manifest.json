@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/FAQPage.github.io/static/css/main.bdf78f55.chunk.css",
-    "main.js": "/FAQPage.github.io/static/js/main.642ddbef.chunk.js",
-    "main.js.map": "/FAQPage.github.io/static/js/main.642ddbef.chunk.js.map",
+    "main.js": "/FAQPage.github.io/static/js/main.885880a0.chunk.js",
+    "main.js.map": "/FAQPage.github.io/static/js/main.885880a0.chunk.js.map",
     "runtime-main.js": "/FAQPage.github.io/static/js/runtime-main.6c4ef7b9.js",
     "runtime-main.js.map": "/FAQPage.github.io/static/js/runtime-main.6c4ef7b9.js.map",
     "static/js/2.5d6ce73b.chunk.js": "/FAQPage.github.io/static/js/2.5d6ce73b.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.6c4ef7b9.js",
     "static/js/2.5d6ce73b.chunk.js",
     "static/css/main.bdf78f55.chunk.css",
-    "static/js/main.642ddbef.chunk.js"
+    "static/js/main.885880a0.chunk.js"
   ]
 }
